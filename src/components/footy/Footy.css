@@ -1,0 +1,15 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+
+    margin: 1.5rem;
+    padding: 1rem;
+
+    border-top: 2px solid black;
+}
+
+footer * {
+    margin: 0.6rem;
+    
+    
+}
